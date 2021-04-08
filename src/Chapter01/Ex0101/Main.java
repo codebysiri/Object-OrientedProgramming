@@ -1,4 +1,4 @@
-package Ex0101;
+package Chapter01.Ex0101;
 
 /* Main 클래스 */
 public class Main {

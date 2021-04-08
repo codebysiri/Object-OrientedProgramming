@@ -1,4 +1,4 @@
-package Ex0102;
+package Chapter01.Ex0102;
 
 /* CatTest 클래스 */
 public class CatTest {
@@ -10,7 +10,6 @@ public class CatTest {
         c.name = "네로";
         c.breeds = "페르시안";
         c.age = 3;
-
         // Dog 객체 필드값 출력
         System.out.printf("이름: %s\n", c.name);
         System.out.printf("품종: %s\n", c.breeds);
